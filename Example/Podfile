@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YJFImageLooper_Example' do
+  pod 'YJFImageLooper', :path => '../'
+
+  target 'YJFImageLooper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
