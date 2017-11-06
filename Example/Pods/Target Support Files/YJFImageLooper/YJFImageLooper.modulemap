@@ -1,0 +1,6 @@
+framework module YJFImageLooper {
+  umbrella header "YJFImageLooper-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,21 @@
+PODS:
+  - SDWebImage (4.1.2):
+    - SDWebImage/Core (= 4.1.2)
+  - SDWebImage/Core (4.1.2)
+  - YJFImageLooper (0.1.0)
+
+DEPENDENCIES:
+  - SDWebImage (~> 4.1.0)
+  - YJFImageLooper (from `../`)
+
+EXTERNAL SOURCES:
+  YJFImageLooper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SDWebImage: cb6f9f266a9977741efcbc21e618e8be3734c774
+  YJFImageLooper: 1d9f34b36ec1df295ef94e69923965ba0830c553
+
+PODFILE CHECKSUM: a74a1eeaa436584817fbd46de3b168cd3fe53894
+
+COCOAPODS: 1.2.1

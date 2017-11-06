@@ -1,7 +1,12 @@
 use_frameworks!
 
 target 'YJFImageLooper_Example' do
-  pod 'YJFImageLooper', :path => '../'
+ 
+    pod 'YJFImageLooper', :path => '../'
+
+    pod 'SDWebImage', '~> 4.1.0'
+    
+    
 
   target 'YJFImageLooper_Tests' do
     inherit! :search_paths

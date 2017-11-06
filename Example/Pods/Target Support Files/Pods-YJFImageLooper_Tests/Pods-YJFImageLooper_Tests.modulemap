@@ -1,0 +1,6 @@
+framework module Pods_YJFImageLooper_Tests {
+  umbrella header "Pods-YJFImageLooper_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
